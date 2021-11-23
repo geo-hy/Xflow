@@ -48,3 +48,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 <img src="https://user-images.githubusercontent.com/67816939/142965680-8b764bcd-2a85-4e32-9313-e858cd953cff.png" height="130px" style="border-radius:50%" >
 [**Haoran Sun**](https://www.researchgate.net/profile/Haoran-Sun-5)
+
+## Funding
+Our research work is supported by [Faculty of Geographical Science](https://geo.bnu.edu.cn/).
