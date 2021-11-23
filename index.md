@@ -4,13 +4,13 @@ You can use the [editor on GitHub](https://github.com/geo-hy/Xflow.io/edit/gh-pa
 
 We study to find ...
 
-**- [News](#news)
-**- [Research topics](#research-topics)**
-**- [Members](#members)**
+- [News](#news)
+- [Research topics](#research-topics)
+- [Members](#members)
   * [Faculty](#faculty)
   * [Ungraduate Students](#ungraduate-students)
   * [Graduate Students](#graduate-students)
-**- [Funding](#funding)**
+- [Funding](#funding)
 
 
 ## News
@@ -39,8 +39,12 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Research topics
 
+- **Hydrological modeling**
 1. [Effects of Groundwater pumping on ground surface temperature: A regional modeling study in the North China Plain.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JD031764) C Yang, HY Li, YL Fang...X Yang*, Journal of Geophysical Research: Atmospheres, 125: 031764, 2020.
 2. xxxx
+
+- **Deep Learning based modeling**
+- **Computed Tomography experiments**
 
 ## Members
 ### Faculty
