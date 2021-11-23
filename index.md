@@ -44,7 +44,11 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 2. xxxx
 
 - **Deep Learning based modeling**
+1. xxxx
+2. 
 - **Computed Tomography experiments**
+1. xxxx
+2. 
 
 ## Members
 ### Faculty
