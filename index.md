@@ -37,7 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ## Members
 ### Faculty
-<img src="https://user-images.githubusercontent.com/67816939/142964606-b0c3fdf5-109f-4d39-b418-cc40ab51b290.png" height="120px" style="border-radius:50%"> [**Xiaofan Yang**](https://geot.bnu.edu.cn/Public/htm/news/5/372.html)<br />Professor
+<img src="https://user-images.githubusercontent.com/67816939/142964606-b0c3fdf5-109f-4d39-b418-cc40ab51b290.png" height="120px" style="border-radius:50%"> [**Xiaofan Yang<br />Professor**](https://geot.bnu.edu.cn/Public/htm/news/5/372.html)
 
 ### Ungraduate Students
 
