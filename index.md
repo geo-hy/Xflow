@@ -38,11 +38,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ## Members
 ### Faculty
 
-v3
+v4
 
 
 <img src="Github_persons/test2_xfy.png" height="150px" style="border-radius:50%"> **Xiaofan Yang**
-<a href="url"><img src="https://github.com/geo-hy/Xflow/blob/main/test2_xfy.png" height="150px" style="border-radius:50%"></a> **Xiaofan Yang**
+<img src="https://github.com/geo-hy/Xflow/blob/main/Github_persons/test2_xfy.png" height="150px" style="border-radius:50%"> **Xiaofan Yang**
 ### Ungraduate Students
 
 <img src="https://user-images.githubusercontent.com/67816939/142962803-92d1de29-4b94-4a2e-868c-9b3539f82a7a.png" height="150px" style="border-radius:50%" > **Yuan He**
