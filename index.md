@@ -40,8 +40,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
  Xiaofan Yang
 ### Ungraduate Students
 v2
-<img src=![test_hy.png] height="200px" style="border-radius:50%" > **Yuan He**
-<img src=![test_slf.png] height="200px" style="border-radius:50%" > **Longfei Guo**
+<img src=![test_hy.png](https://github.com/geo-hy/Xflow/blob/60c97e1a08a2183d203b17e1c9295741bdc30dc2/test_hy.png) height="200px" style="border-radius:50%" > **Yuan He**
+<img src=![test_slf.png](https://github.com/geo-hy/Xflow/blob/60c97e1a08a2183d203b17e1c9295741bdc30dc2/test_slf.png) height="200px" style="border-radius:50%" > **Longfei Guo**
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
