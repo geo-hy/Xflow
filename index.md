@@ -40,8 +40,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
  Xiaofan Yang
 #### Ungraduate Students
 
+![test](https://user-images.githubusercontent.com/67816939/142953898-225e03d2-ab68-4a33-9bd2-62cc9a82c607.jpeg) <src= height="200px"/> Yuan He
 
-<img src=![test](https://user-images.githubusercontent.com/67816939/142953898-225e03d2-ab68-4a33-9bd2-62cc9a82c607.jpeg) height="200px"/> Yuan He
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
