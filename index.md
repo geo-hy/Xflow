@@ -33,8 +33,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 1. [Effects of Groundwater pumping on ground surface temperature: A regional modeling study in the North China Plain.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JD031764) C Yang, HY Li, YL Fang...X Yang*, Journal of Geophysical Research: Atmospheres, 125: 031764, 2020.
 2. xxxx
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geo-hy/Xflow.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ## Members
 ### Faculty
 <img src="https://user-images.githubusercontent.com/67816939/142964606-b0c3fdf5-109f-4d39-b418-cc40ab51b290.png" height="130px" style="border-radius:50%"> [**Prof. Xiaofan Yang**](https://geot.bnu.edu.cn/Public/htm/news/5/372.html)
