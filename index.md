@@ -39,6 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Faculty
 <img src="https://user-images.githubusercontent.com/67816939/142964606-b0c3fdf5-109f-4d39-b418-cc40ab51b290.png" height="120px" style="border-radius:50%"> [**Xiaofan Yang**](https://geot.bnu.edu.cn/Public/htm/news/5/372.html)
 > Professor
+
 ### Ungraduate Students
 
 <img src="https://user-images.githubusercontent.com/67816939/142962803-92d1de29-4b94-4a2e-868c-9b3539f82a7a.png" height="120px" style="border-radius:50%" > **Yuan He**
