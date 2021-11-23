@@ -39,7 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 #### Ungraduate Students
 
-![11131637626128_ pic_hd](https://user-images.githubusercontent.com/67816939/142953275-b7ba5971-37d1-41bf-875d-85d8ec73e6d1.jpg) Yuan He
+ Yuan He
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
