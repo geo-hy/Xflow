@@ -7,15 +7,13 @@ We study to find ...
 **[- News](#News)**
 
 
-**[- Researchtopics](#Research-topics)**
+**[- Research topics](#Research-topics)**
 
 
 **[- Members](#Members)**
 
 
 **[- Funding](#Funding)**
-
-[test](#Funding)
 
 ## News
 
