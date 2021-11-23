@@ -4,26 +4,13 @@ You can use the [editor on GitHub](https://github.com/geo-hy/Xflow.io/edit/gh-pa
 
 We study to find ...
 
-**[- News](#News)**
-
-
-**[- Research topics](#Research-topics)**
-
-
-**[- Members](#Members)**
-
-
-**[- Funding](#Funding)**
-
-- [News](#news)
-- [Research topics](#research-topics)
-- [Members](#members)
+**- [News](#news)
+**- [Research topics](#research-topics)**
+**- [Members](#members)**
   * [Faculty](#faculty)
   * [Ungraduate Students](#ungraduate-students)
   * [Graduate Students](#graduate-students)
-- [Funding](#funding)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+**- [Funding](#funding)**
 
 
 ## News
