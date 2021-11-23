@@ -41,8 +41,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Ungraduate Studentsdd
 
-<img src="https://user-images.githubusercontent.com/67816939/142962803-92d1de29-4b94-4a2e-868c-9b3539f82a7a.png" height="130px" style="border-radius:50%" > **Yuan He**  
-<img src="https://user-images.githubusercontent.com/67816939/142962859-ca80965e-7ed9-460d-95d6-78ee70f57de6.png" height="130px" style="border-radius:50%" > **Longfei Guo**
+<img src="https://user-images.githubusercontent.com/67816939/142962803-92d1de29-4b94-4a2e-868c-9b3539f82a7a.png" height="130px" style="border-radius:50%" > **Yuan He**        <img src="https://user-images.githubusercontent.com/67816939/142962859-ca80965e-7ed9-460d-95d6-78ee70f57de6.png" height="130px" style="border-radius:50%" > **Longfei Guo**
 
 ### Graduate Students
 
