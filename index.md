@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/geo-hy/Xflow.io/edit/gh-pa
 
 We study to find ...
 
-### News
+## News
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -28,19 +28,19 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Research topics
+## Research topics
 
 1. [Effects of Groundwater pumping on ground surface temperature: A regional modeling study in the North China Plain.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JD031764) C Yang, HY Li, YL Fang...X Yang*, Journal of Geophysical Research: Atmospheres, 125: 031764, 2020.
 2. xxxx
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/geo-hy/Xflow.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Members
-#### Faculty
+## Members
+### Faculty
  Xiaofan Yang
-#### Ungraduate Students
+### Ungraduate Students
 
-<img src="https://user-images.githubusercontent.com/67816939/142953898-225e03d2-ab68-4a33-9bd2-62cc9a82c607.jpeg" height="200px" style="border-radius:50%" ></a **Yuan He**
+<img src="https://user-images.githubusercontent.com/67816939/142953898-225e03d2-ab68-4a33-9bd2-62cc9a82c607.jpeg" height="200px" style="border-radius:50%" > **Yuan He**
 
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
